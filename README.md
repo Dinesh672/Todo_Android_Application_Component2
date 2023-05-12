@@ -59,15 +59,14 @@ Features:
 ## Add Task
 
 
-![Add Task](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/e7045371-bc60-48d8-8faf-8f190d1ec869)
-
-
+![Add Task](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/976463fe-6414-4c3f-96a3-d9cbfa32a5a4)
 
 
 ## Update Task
 
 
-![Update Task](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/1580f8c8-28f9-4867-8979-19c7eb52a1d3)
+![Update Task](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/d2232508-373c-4b5c-95a1-5cb0fa01b12d)
+
 
 
 
