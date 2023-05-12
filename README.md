@@ -62,20 +62,16 @@ Features:
 ![Add Task](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/10e35c8d-3155-48c6-bc91-15350b22d4e1)
 
 
-
-
 ## Update Task
 
 
 ![Update Task](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/14c73f64-ba5b-49ea-a934-9149118b86e5)
 
 
-
 ## Delete Task
 
 
-
-![Delete Task](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/297ede36-db56-45fb-99fd-16c8a8829a28)
+![Delete Task](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/29a77904-2c0d-40ff-b273-e78a48fb9865)
 
 
 ##Extra Features
@@ -84,32 +80,32 @@ Features:
 ## Google Voice Typing
 
 
-![Google voice Typing](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/0f65cd3c-eada-4084-b3f2-513ce7e7a9bc)
-
+![Google voice Typing](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/a21cef5a-c6a5-48ba-9574-e81a544bf692)
 
 
 ## Calender
 
 
-![Calender](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/f7152848-a24e-43cf-9407-c3f4ae0b361f)
+![Calender](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/2e867a1b-be62-4b63-b4b3-39a012a65a64)
 
 
 ## Clock
 
 
-![Clock](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/12ed6786-135d-487a-a388-c1ee3b5e70c3)
+![Clock](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/4cafc557-797f-414c-853f-43678e58db8e)
 
 
 ## Search
 
 
-![Search](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/5bba1337-1d5c-400b-bbf5-f7755dc8cad2)
+![Search](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/fa711132-bfdb-4c3f-b684-66bbae662688)
 
 
 ## About
 
 
-![About](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/aa45f350-d3b6-47da-9a75-c38a981ad0f6)
+![About](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/19189b0d-541f-4408-aa10-34c674cc2d88)
+
 
 
 
