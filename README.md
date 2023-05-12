@@ -59,7 +59,8 @@ Features:
 ## Add Task
 
 
-![Add Task](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/7168184a-6d58-4d73-90bb-b5ffe10d814c)
+![Add Task](https://github.com/Dinesh672/Todo_Android_Application_Component2/assets/66740714/f512b3e5-cfff-43c4-87a1-b5653b5c81c1)
+
 
 
 ## Update Task
