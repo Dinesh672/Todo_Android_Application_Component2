@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="hint">Enter Task</string>
+    <string name="repoLink">https://github.com/Dinesh672/ToDo</string>
+    <string name="insta">https://www.instagram.com/dinesh_gurung3955/</string>
+    <string name="github">https://github.com/Dinesh672</string>
+    <string name="linkedin">https://www.linkedin.com/in/dinesh-gurung-a90686202/</string>
+    <string name="notification_reminder">Deadline is approaching, complete your damn work!</string>
+
+</resources>

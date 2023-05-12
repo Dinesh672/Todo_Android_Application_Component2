@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu May 11 23:41:55 NPT 2023
+0.base=C\:\\Users\\Acer\\AndroidStudioProjects\\ToDo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=fonts/Roboto-Light.ttf
+0.baseType=DIRECTORY
+1.set=ASSET
+1.base=C\:\\Users\\Acer\\AndroidStudioProjects\\ToDo\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.set=DEX
